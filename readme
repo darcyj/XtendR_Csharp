@@ -1,0 +1,4 @@
+# XtendR_Csharp
+# by John L. Darcy
+# This program takes contigs from a genome assembly and extends them. 
+# This process can join multiple contigs together using raw reads. 

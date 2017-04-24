@@ -1,0 +1,6 @@
+/home/jack/Documents/code_projects/XtendR_Csharp/XtendR_Csharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jack/Documents/code_projects/XtendR_Csharp/XtendR_Csharp/bin/Debug/XtendR_Csharp.exe.mdb
+/home/jack/Documents/code_projects/XtendR_Csharp/XtendR_Csharp/bin/Debug/XtendR_Csharp.exe
+/home/jack/Documents/code_projects/XtendR_Csharp/XtendR_Csharp/obj/x86/Debug/XtendR_Csharp.exe
+/home/jack/Documents/code_projects/XtendR_Csharp/XtendR_Csharp/obj/x86/Debug/XtendR_Csharp.exe.mdb
+/home/jack/Documents/code_projects/XtendR_Csharp/XtendR_Csharp/bin/Debug/CommandLine.dll

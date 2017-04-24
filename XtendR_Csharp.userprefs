@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="XtendR_Csharp/XtendR_Csharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XtendR_Csharp/Program.cs">
+    <Files>
+      <File FileName="XtendR_Csharp/Program.cs" Line="222" Column="7" />
+      <File FileName="XtendR_Csharp/options.cs" Line="1" Column="1" />
+      <File FileName="XtendR_Csharp/Functions.cs" Line="530" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XtendR__Csharp>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="non-contig mode" Id="0467cd9a-3d0a-4a49-8889-ce3c7111da5d" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="-f rawseqs.fasta -s startcontig.fasta -k 21  -l 35000 -o output.fasta" WorkingDirectory="/home/jack/Documents/code_projects/test_files/" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+      <Data Name="contigtest" Id="1df728e9-4dbb-44be-b172-8223574be8ba" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="-f '/home/jack/Desktop/genome_refragmenter/n_punct_frags.fasta' -s '/home/jack/Desktop/genome_refragmenter/n_punct_startingcontig_REV.fasta' -k 21 -l 47000 -o assembled_output.fasta -c '/home/jack/Desktop/genome_refragmenter/n_punct_contigs.fasta' -m 4 -t 4 -j" WorkingDirectory="/home/jack/Desktop/XtendR_test" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.XtendR__Csharp>
+</Properties>
