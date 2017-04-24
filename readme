@@ -10,7 +10,7 @@
       mono path_to_downloaded_folder/Xtendr_Csharp/bin/Debug/XtendR_Csharp.exe -h
 #     That should show the help documentation, which I'll paste below.
 # 4. Read the help, figure out your inputs, and run! Note that your raw reads
-      need to be in fasta format, not fastq. 
+#     need to be in fasta format, not fastq. 
  
 # Arguments: 
 # 
